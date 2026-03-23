@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+upload-script/package-lock.json
+upload-script/serviceAccountKey.json
+web-app/
+web-app-react/.env
+.claude/

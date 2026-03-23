@@ -1,0 +1,13 @@
+{
+  "name": "firebase-csv-uploader",
+  "version": "1.0.0",
+  "description": "Script para cargar dataset CSV de videojuegos a Firebase Firestore",
+  "main": "upload.js",
+  "scripts": {
+    "upload": "node upload.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "firebase-admin": "^12.0.0"
+  }
+}
